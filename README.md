@@ -1,3 +1,3 @@
 # chatty
 Chatty is a simple communication app.. you can send messages to your contacts and create rooms for a group of friends
-![alt ChatRoom](https://www.dropbox.com/home?preview=room-chat.PNG)
+![alt ChatRoom](https://previews.dropbox.com/p/thumb/AB6ez_Nk1eYrY-hd7tffYAJum0sjsHu_0NUgrbmJO4BPFdBWIU0-fWxAivY0qBhZ3PydOzqPytTXjzubuIPWovLUIO2VdqUsV2DyLusXHnGT4jjn8oWy_g5DVISAWesFZAA-wpYzXr7bhYnV3Tl-y_ruYiXb1qJDqplD0AutsD3GrswZJfs-O49Br6iJP88-QKaHJSpVBUBv1tcO9cyQuJmKrP9fqW7y4AaeR0yDtOG_hkmbI9yCVBAy_HZtaopZqdjrRo4PvTA32LgLv69cbhAYLnDvYsm1FgHCq4OhQn6gD5r5SBRmb7KlPaY_N9hM-3KRpKfqAX1BV1HXWmdwKoNPxBTssOIOeEZYheBbulXCMRG5L-1gz6q67mIvgSRbxr4/p.png)
